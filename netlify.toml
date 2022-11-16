@@ -1,3 +1,8 @@
+[dev]
+framework = “nft-gating”
+functionsPort = 3001
+
 [build]
-  command = "yarn add all && npm run dev"
-  functions = "functions"
+functions = “functions”
+functionsPort = 3002
+Command = “npm run prod”
