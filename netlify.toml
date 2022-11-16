@@ -1,3 +1,3 @@
 [build]
-  command = "yarn add all && npm i && npm run dev"
+  command = "yarn add all && npm run dev"
   functions = "functions"
