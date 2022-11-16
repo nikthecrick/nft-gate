@@ -1,8 +1,4 @@
-[dev]
-framework = “nft-gating”
-functionsPort = "3001"
-
 [build]
 functions = “functions”
-functionsPort = "3002"
+functionsPort = 3002
 Command = “npm run prod”
